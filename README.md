@@ -36,6 +36,7 @@ Technologies Used: Microsoft SQL Server 2022
 
 
 4. Global Food Inflation Dashboard
+   
 Description: An interactive dashboard that provides insights into global food inflation trends from 2020 to 2023 through various engaging visualizations.
 
 Key Features:
